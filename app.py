@@ -167,5 +167,3 @@ if st.button("✅ 채점하기", type="primary"):
         
     # 총점
     st.success(f"🏆 총점: {score1 + score2} / 8 점")
-
-AI generated
